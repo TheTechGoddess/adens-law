@@ -7,5 +7,7 @@ import PracticeAreas from '../components/PracticeAreas.vue';
     <Hero />
     <Intro />
     <PracticeAreas />
+    <Experts />
+    <Testimonials />
   </div>
 </template>
